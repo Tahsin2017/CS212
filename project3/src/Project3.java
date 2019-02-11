@@ -1,6 +1,6 @@
 /**
  * This project extends project3.
- * Project 3 remains the same. Just the following things should be added.
+ * Project 2 remains the same. Just the following things should be added.
  * 
  * Create an IllegalBoxException.java. Unlike previous projects, this time along with throwing Exceptions, catch them using Try-Catch
  * Instead of throwing IllegalArgumentExceptions, illegal parameters should throw IllegalBoxException.
